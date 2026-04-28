@@ -9,9 +9,14 @@ My name is Tatiana and now you can come along with me on this journey of learnin
 
 <li>I'm undergraduated in Japanese Language (both as Bachelor's in Literary Studies and Teaching degree in Language)</li>
 
-<li>Also I'm a digital illustrator artist!</li>
-<br><div align="center"> -------- ⊹˚‧︵‿ ୨ • ₊✩‧₊ ✦ ₊‧✩₊‎ • ୧‿︵‧˚⊹ -------- <br></div>
+<li>Also I'm a digital illustrator artist!</li> <br>
 
+STUDYING:  ![JavaScript](https://img.shields.io/badge/JavaScript-9c89c5?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-9c89c5?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-9c89c5?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-9c89c5?style=for-the-badge&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-9c89c5?style=for-the-badge&logo=figma&logoColor=white)
+<br><div align="center"> -------- ⊹˚‧︵‿ ୨ • ₊✩‧₊ ✦ ₊‧✩₊‎ • ୧‿︵‧˚⊹ -------- <br></div>
 <br>Where you can find me:
 <div>
 <a href="https://www.linkedin.com/in/tatiana-cared-74480398/" target="_blank">
